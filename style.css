@@ -29,7 +29,7 @@ body {
 
 .container__perfil {
     width: 100%;
-    height: 290px;
+    height: 280px;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ body {
     position: absolute;
     top: 0;
     width: 100%;
-    height: 150px;
+    height: 145px;
     border-radius: 10px 10px 0 0;
 }
 
